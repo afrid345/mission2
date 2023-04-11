@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\mission2\mission2\bin\Debug\mission2.exe.config
+C:\Users\User\Desktop\mission2\mission2\bin\Debug\mission2.exe
+C:\Users\User\Desktop\mission2\mission2\bin\Debug\mission2.pdb
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.Properties.Resources.resources
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.exe
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.pdb
+C:\Users\User\Desktop\mission2\mission2\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.Form1.resources
+C:\Users\User\Desktop\mission2\mission2\obj\Debug\mission2.csproj.CopyComplete
